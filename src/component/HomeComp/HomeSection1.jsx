@@ -74,9 +74,9 @@ const HomeSection1 = () => {
           {showSection2 === true ? ('') : (          
           <div className='Section1'>
                 <div className='LeftSection1'>
-                        <p>Unique & Stylish</p> 
+                        <p>Unique and Stylish</p> 
                         <p id='furniture'><span style={{color:"black"}}>Modern</span> Furniture</p>
-                        <p id='sectiontext'>Assertivelys target market-driven intellectual capital with <br/>
+                        <p id='sectiontext'>Assertivelys target market driven intellectual capital with <br/>
                           worldwide human is simply free text quiz Bibendum holistic.</p>
                         <button>Shop Now</button>
                 </div>
@@ -96,9 +96,9 @@ const HomeSection1 = () => {
           {showSection3 === true ? ('') : (
                       <div className='Section1'>
                       <div className='LeftSection1'>
-                              <p>Unique & Stylish</p> 
+                              <p>Unique and Stylish</p> 
                               <p id='furniture'><span style={{color:"black"}}>New</span> Furniture</p>
-                              <p id='sectiontext'>Assertively target market-driven intellectual capital with <br/>
+                              <p id='sectiontext'>Assertively target market driven intellectual capital with <br/>
                                 worldwide human is simply free text quiz Bibendum holistic.</p>
                               <button>Shop Now</button>
                       </div>

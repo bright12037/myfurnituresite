@@ -111,18 +111,18 @@ const Navbar = ({theColorFunc, navBarcolor}) => {
          
 
          <ul>
-             <li> Bakery & Biscuits</li>
+             <li> Bakery and Biscuits</li>
              <li>vegetables</li>
-             <li>Coffee & Drinks</li>
+             <li>Coffee and Drinks</li>
              <li>vegetables</li>
-             <li>Beauty & Health</li>
+             <li>Beauty and Health</li>
          </ul>
 
          <ul>
-             <li>Jam & Jellyvegetables</li>
-             <li>Sports & Fitness</li>
+             <li>Jam and Jellyvegetables</li>
+             <li>Sports and Fitness</li>
              <li>Cold Drinks</li>
-             <li>Fresh & Organic</li>
+             <li>Fresh and Organic</li>
              <li>Honey</li>
          </ul>
      </div>)}

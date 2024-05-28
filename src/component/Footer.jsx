@@ -58,7 +58,7 @@ const Footer = () => {
               </ul>
           </div>
           <div className='footersectionbottom'>
-            <p>© All rights reserved Made by <span id="theme">ThemeTags</span></p>
+            <p> All rights reserved Made by <span id="theme">ThemeTags</span></p>
             <Image src = {logo} alt='hh'/>
             <div>
                 <Image src = {payment} alt='hh'/>

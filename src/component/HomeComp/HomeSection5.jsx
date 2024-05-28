@@ -125,7 +125,7 @@ const HomeSection5 = () => {
                     </div>   
                     <div className='section6bottom'>
                         <p id='subscribe' >Subscribe Our Newsletter to <br/>
-                         Get Latest Update & News</p>
+                         Get Latest Update and News</p>
                         <div style={{display:"flex", alignItems:"center", width:"100%", paddingTop:"10px"}}>
                             <input type="text" placeholder='Enter Email Address' />
                             <p style={{color:"white", backgroundColor:"#FF7C0A", fontWeight:"600", fontSize:"16px", padding:"20px 20px"}}>Subscribe Now</p>
