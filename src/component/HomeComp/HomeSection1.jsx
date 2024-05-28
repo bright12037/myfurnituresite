@@ -51,7 +51,7 @@ const HomeSection1 = () => {
         {showSection1 === false ? (  
         <div className='Section1'>
                 <div className='LeftSection1'>
-                        <p>Unique & Stylish</p> 
+                        <p>Unique and Stylish</p> 
                         <p id='furniture'>Furniture</p>
                         <p id='sectiontext'>Assertively target market-driven intellectual capital with <br/>
                           worldwide human is simply free text quiz Bibendum holistic.</p>
