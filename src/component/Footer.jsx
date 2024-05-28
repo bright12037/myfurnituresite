@@ -10,7 +10,7 @@ import payment4 from './images/payment-img-4.png'
 
 
 const Footer = () => {
-  return (
+  return ( 
     <div>
         <div className='footersection'>
           <div className='footersectiontop'>

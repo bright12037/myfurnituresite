@@ -1,4 +1,4 @@
-'use client'
+
 import React from 'react'
 import BlogSection1 from '@/component/BlogCompo/BlogSection1'
 
