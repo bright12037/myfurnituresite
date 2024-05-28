@@ -1,3 +1,4 @@
+'use client'
 import React from 'react'
 import { HomeSection4cards } from './HomeSection4cards'
 import { HomeSection4cards2 } from './HomeSection4cards';

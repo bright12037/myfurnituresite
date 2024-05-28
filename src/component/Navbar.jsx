@@ -1,4 +1,4 @@
-'use client'
+'use c
 import React from 'react'
 import './Navbar.css'
 import Image from 'next/image'

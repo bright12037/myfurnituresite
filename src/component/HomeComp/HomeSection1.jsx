@@ -1,4 +1,4 @@
-
+'use client'
 import React from 'react'
 import Image from 'next/image'
 import './Homesection1.css'
@@ -59,7 +59,7 @@ const HomeSection1 = () => {
                 </div>
                 <div className='RightSection1'  data-aos="fade-left">
                   <Image src={image1} alt='a' />
-                </div>
+                </div> 
 
                 <div className='dot'> 
                   <p onClick={handleShowSection1} style={{color : 'orange', fontSize : 20}}><FaRegDotCircle /></p>

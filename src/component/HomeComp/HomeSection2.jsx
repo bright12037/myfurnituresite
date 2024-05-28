@@ -1,3 +1,4 @@
+'use client'
 import React from 'react'
 import Image from 'next/image'
 import './HomeSection2.css'
@@ -6,7 +7,6 @@ import { GoDotFill } from "react-icons/go";
 import pic1 from '../images/product-banner-img-1.png'
 import pic2 from '../images/product-banner-img-2.png'
 import pic3 from '../images/product-banner-img-3.png'
-import { FaArrowRight } from "react-icons/fa6";
 
 const HomeSection2 = () => {
   return (
