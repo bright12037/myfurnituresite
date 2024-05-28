@@ -1,5 +1,3 @@
-'use client'
-
 import React from 'react'
 import HomeSection1 from '@/component/HomeComp/HomeSection1'
 import HomeSection2 from '@/component/HomeComp/HomeSection2'
